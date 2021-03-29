@@ -1,0 +1,38 @@
+h2 {
+    text-align: center;
+}
+
+.keyboard {
+    margin-top: 10px;
+    width: 100%;
+    text-align: center;
+}
+
+button {
+    padding: 12px;
+    margin: 5px;
+    font-size: 18px;
+    color: white;
+    background-color: #272727;
+}
+
+.space {
+    width: 350px;
+}
+
+button:hover {
+    background-color: #575757;
+}
+
+.textbox {
+    display: block;
+    text-align: center;
+}
+
+textarea {
+    border: #272727 solid 2px;
+    width: 70%;
+    height: 45%;
+    font-size: 16px;
+    margin: auto;
+}
